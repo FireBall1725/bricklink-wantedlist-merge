@@ -9,3 +9,6 @@ Just a simple python script that allows you to easily merge bricklink wanted lis
 - `--path <str>` - Path where the xml files exist, default is current directory
 - `--condition <str>` - Condition to set on each item in bulk, valid options are `N` for new and `U` for used
 - `-h / --help` - Show help
+
+## Resources
+[Bricklink wanted list documentation](https://www.bricklink.com/help.asp?helpID=207)
